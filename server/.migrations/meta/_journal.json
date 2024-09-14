@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1726020594199,
+      "tag": "0000_mean_elektra",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1726023712610,
+      "tag": "0001_familiar_pandemic",
+      "breakpoints": true
+    }
+  ]
+}
